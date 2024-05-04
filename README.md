@@ -3,3 +3,6 @@
 
 ## 機能リンク
 * [KAJiraUtilityプラグインドキュメント](./Documents/KAJiraUtility.md)
+
+## ダウンロード
+[ダウンロード](https://github.com/kinnajichan/KAJiraUtility/releases/tag/1.0)
